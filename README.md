@@ -1,4 +1,7 @@
 # Full-Stack-Development-Dashboard
+
+REDO THIS README
+
 # How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 For this project, the goal was to create a web application which allows users to view database data via a dashboard application. I worked to make my code maintainable, readable, and adaptable thoughout development. I followed best practices, implimented changes/suggestions by my professor, and heavily commented my code. The benifit of doing so was that my code is adaptable and can be used for future applications. It is maintainable/readable and can be updated by the user to best suit their needs. It was helpful to do so during developemnt because I was able to use the same CRUD module for the more advanced milestone assignment.
 # How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
