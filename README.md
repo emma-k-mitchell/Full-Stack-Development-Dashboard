@@ -1,10 +1,27 @@
 # Full-Stack-Development-Dashboard
 
-REDO THIS README
+### Project Scenario
+As a developer for Global Rain, a software company, I was tasked with developing a web application for Grazioso Salvare, a company that works with shelter dogs to find specific breeds best suited for rescue training. The application pulls from a database with existing data from various animal shelters about the dogs residing at each location. Development on this project was broken into three stages: MongoDB authentication and indexing, implimenting Python middle-ware CRUD functionality, and the development of the Python web application.
 
-# How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
-For this project, the goal was to create a web application which allows users to view database data via a dashboard application. I worked to make my code maintainable, readable, and adaptable thoughout development. I followed best practices, implimented changes/suggestions by my professor, and heavily commented my code. The benifit of doing so was that my code is adaptable and can be used for future applications. It is maintainable/readable and can be updated by the user to best suit their needs. It was helpful to do so during developemnt because I was able to use the same CRUD module for the more advanced milestone assignment.
-# How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
-I faced quite a few issues while developing this product for the final assignment. I addressed and resolved these issues using one or more of these strategies: researching the issue/reading documentation, trial and error, and reaching out to help from my professor and peers. As my classes advance, I have begun to see the benifit of working with others to complete assignments. I believe this is good because many jobs require working in team settings when developing products.
-# What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
-There is not one specific thing that computer scientists do, but many *many* different things that are possible to do within the field of computer science. My work on this project gave me hands-on experience with full stack development. The prodct I developed was done so to help a buisness better view data from a chosen database. It was developed based upon their requests.
+### Development and Experience
+My work on this project resulted in a Python web application that allows users to search through a database, via a dashboard, to better visualize the data as well as identify and categorize database members. This was my first introduction to full-stack development, and from this class, I gained experience developing client/server applications that interface with client-side code via databases. Included in this repository is my README word document and ProjectTwoDashboard.zip. The README document was updated over the 7 weeks of development to clearly document the project's development, functionality, and purpose. The zip file includes two documents, one is a .py file and the other is an .ipynb file. These can be uploaded into Jupyter notebook to view the finished product. 
+
+### Functionality
+Below is a screenshot of the finished dashboard. The application uses a dropdown menu to filter results.
+
+<p align="center">
+<img width="1100" height="400" src="https://user-images.githubusercontent.com/77023670/201732868-9451182c-19bb-49dd-ab9a-6ec8341b9db7.png">
+</p>
+
+Below the returned results, I implimented a geo-location map that shows the location of the first item from the results above. My work for this project was for a ficticious company, Grazioso Salvare, that wanted a way to 
+
+### Skills Gained from Project
+- Writing maintainable, readable, and adaptable code. 
+
+I worked to make my code maintainable, readable, and adaptable thoughout each stage of development. I followed best practices, implimented any and all changes/suggestions by my professor, and heavily commented my code. Doing so resulted in readable code that could easily be re-used in future projects. My code is adaptable and can be updated by the user to best suit their needs. Because my code was written in these ways, I was able to use the same CRUD module for many of my milsetone assignments, only updating it as needed.
+- Identifiying and resolving issues encountered during development. 
+
+I faced quite a few issues while developing this project. I addressed and resolved these issues using one or more of these strategies: researching the issue/reading documentation, trial and error, and reaching out to help from my professor and peers. As my classes advance, I have begun to see the benifit of working with others to complete assignments. I believe this is good because an internship and full-time positon will require me to work in team settings when developing products.
+- Experience will full-stack development. 
+
+My work on this project gave me hands-on experience with full stack development. The prodct I developed was done so to help a buisness resolve an issue that they brought to my attention. I developed the product they requested accourding to their specifications and requirements.
