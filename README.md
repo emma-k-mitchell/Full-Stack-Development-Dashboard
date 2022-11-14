@@ -1,7 +1,7 @@
 # Full-Stack-Development-Dashboard
 
 ### Project Scenario
-As a developer for Global Rain, a software company, I was tasked with developing a web application for Grazioso Salvare, a company that works with shelter dogs to find specific breeds best suited for rescue training. The application pulls from a database with existing data from various animal shelters about the dogs residing at each location. Development on this project was broken into three stages: MongoDB authentication and indexing, implimenting Python middle-ware CRUD functionality, and the development of the Python web application.
+As a developer for Global Rain, a software company, I was tasked with developing a web application for Grazioso Salvare, a company that works with shelter dogs to find specific breeds best suited for rescue training. The application pulls from a database with existing data from various animal shelters about the animals residing at each location. Development on this project was broken into three stages: MongoDB authentication and indexing, implimenting Python middle-ware CRUD functionality, and the development of the Python web application.
 
 ### Development and Experience
 My work on this project resulted in a Python web application that allows users to search through a database, via a dashboard, to better visualize the data as well as identify and categorize database members. This was my first introduction to full-stack development, and from this class, I gained experience developing client/server applications that interface with client-side code via databases. Included in this repository is my README word document and ProjectTwoDashboard.zip. The README document was updated over the 7 weeks of development to clearly document the project's development, functionality, and purpose. The zip file includes two documents, one is a .py file and the other is an .ipynb file. These can be uploaded into Jupyter notebook to view the finished product. 
@@ -13,7 +13,11 @@ Below is a screenshot of the finished dashboard. The application uses a dropdown
 <img width="1100" height="400" src="https://user-images.githubusercontent.com/77023670/201732868-9451182c-19bb-49dd-ab9a-6ec8341b9db7.png">
 </p>
 
-Below the returned results, I implimented a geo-location map that shows the location of the first item from the results above. My work for this project was for a ficticious company, Grazioso Salvare, that wanted a way to 
+Below the returned results, I implimented a geo-location map that shows the location of the first animal from the results above. This can be adjusted or removed to best fit the needs of the user.
+
+<p align="center">
+<img width="1100" height="400" src="https://user-images.githubusercontent.com/77023670/201746215-fb399bb8-d033-4d41-b567-6a40186515d1.png">
+</p>
 
 ### Skills Gained from Project
 - Writing maintainable, readable, and adaptable code. 
